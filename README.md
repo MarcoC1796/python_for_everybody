@@ -1,2 +1,2 @@
 # python_for_everybody
-Contains the exercises of the course
+Contains the exercises from the course
